@@ -3,7 +3,7 @@
 > A real-time second-screen companion for IPL 2026, powered by **Google Gemini** and **live cricket data**.  
 > Built for fans who want more than just a scoreboard.
 
-### 🚀 [Live Demo → cricket-second-screen-agent-889533379107.us-central1.run.app](https://cricket-second-screen-agent-889533379107.us-central1.run.app)
+### 🚀 [Live Demo → CricGenie](https://cricket-second-screen-agent-889533379107.us-central1.run.app)
 
 ---
 
